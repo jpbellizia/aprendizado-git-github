@@ -1,0 +1,6 @@
+As branchs podem são uma forma de se trabalhar com features isoladas. Com elas é possível que cada programador trabalhe em uma branch diferente para posteriormente uni-las.
+Existe:
+
+Branch MASTER: Que é a branch principal que receberá todas as informações das outras branchs criadas. OBS* Todas branchs criadas serão derivadas desta.
+
+Branch [create_name]: Esta ramificação da Branch pode levar o nome que o usuário desejar, e ao final pode ser incluída/incorporada na branch master.
