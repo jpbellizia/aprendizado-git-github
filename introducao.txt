@@ -3,5 +3,9 @@ Breve introdução sobre as funcionalidades do Git e GitHub, abordando o aprendi
 =======
 Breve introdução sobre as funcionalidades do Git e GitHub, abordando o aprendizado da aula online.
 
+<<<<<<< HEAD
 Testando
+>>>>>>> meu-aprendizado
+=======
+Testando enviar uma nova atualização para o arquivo introdução direto para o GitHub.
 >>>>>>> meu-aprendizado

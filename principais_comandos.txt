@@ -11,5 +11,15 @@ history - mostra o histórico de comandos já utilizados no terminal
 =======
 history - mostra o histórico de comandos já utilizados no terminal
 
+<<<<<<< HEAD
 testando 2
+>>>>>>> meu-aprendizado
+=======
+Testando enviar uma nova atualização para o arquivo introdução direto para o GitHub.
+
+if (1 > 0) {
+    let ...
+} else {
+    ....
+}
 >>>>>>> meu-aprendizado
