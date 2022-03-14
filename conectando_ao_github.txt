@@ -1,0 +1,3 @@
+Primeiro passo para conectar-se ao gitHub é criar uma pasta local em seu computador e inserir o comando "Git Init" em seu terminal, para que crie uma ligação entre eles.
+
+Adicionando novamente 3

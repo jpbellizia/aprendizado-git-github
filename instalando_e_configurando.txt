@@ -1,0 +1,5 @@
+O primeiro passo para conectar uma pasta ao GitHub é usar o comando "Git init" para que o Git crie um caminho no seu computador até a pasta que deseja vincular ao seu perfil.
+
+Feito isso, existem diversas ferramentas que podem ser utilizadas para criação de pastas, arquivos, alteração de arquivos, filtrar conteúdos, remoção de pastas etc.
+
+Adicionando novamente 2
