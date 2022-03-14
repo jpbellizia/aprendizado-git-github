@@ -6,4 +6,10 @@ less [Nome do arquivo] - Detalha o que está escrito no conteúdo do arquivo
 ls - Mostra todos arquivos presentes na pasta
 rm - remove um arquivo
 rm -rf - remove uma pasta
+<<<<<<< HEAD
 history - mostra o histórico de comandos já utilizados no terminal
+=======
+history - mostra o histórico de comandos já utilizados no terminal
+
+testando 2
+>>>>>>> meu-aprendizado
