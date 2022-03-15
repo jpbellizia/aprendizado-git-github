@@ -5,4 +5,6 @@ Branch MASTER: Que é a branch principal que receberá todas as informações da
 
 Branch [create_name]: Esta ramificação da Branch pode levar o nome que o usuário desejar, e ao final pode ser incluída/incorporada na branch master.
 
-Testando a branch nova
+while (c > 2) {
+    console.log('teste')
+}
